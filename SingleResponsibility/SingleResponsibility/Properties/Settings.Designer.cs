@@ -9,6 +9,7 @@
 //------------------------------------------------------------------------------
 
 
+
 namespace SingleResponsibility.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

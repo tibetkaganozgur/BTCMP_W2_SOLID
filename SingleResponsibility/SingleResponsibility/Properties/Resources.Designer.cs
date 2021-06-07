@@ -9,6 +9,7 @@
 //------------------------------------------------------------------------------
 
 
+
 namespace SingleResponsibility.Properties
 {
     /// <summary>
